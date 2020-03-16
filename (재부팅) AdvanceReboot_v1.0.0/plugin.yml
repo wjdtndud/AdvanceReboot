@@ -1,0 +1,5 @@
+name: AdvanceReboot
+main: AdvanceReboot\Reboot
+api: 3.10.0
+author: AvasKr
+version: 1.0.0
